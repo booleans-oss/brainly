@@ -1,7 +1,7 @@
 const BaseCommand = require('../../util/BaseCommand');
 module.exports = class InfoCommand extends BaseCommand {
   constructor() {
-    super('train', 'ai', ['train', 't']);
+    super('rpc', 'ai', ['rpc']);
   }
 
   async run(client, message, args) {
