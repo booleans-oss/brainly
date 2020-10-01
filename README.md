@@ -39,7 +39,7 @@
 ### 1. Install the repo
 Install using [git](https://github.com/booleans-oss/brainly/):
 
-    git clone git@github.com:booleans-oss/discord-doc.git
+    git clone git@github.com:booleans-oss/brainly.git
 
 ### 2. Depedencies installation
 Install using [npm](https://docs.npmjs.com/getting-started/what-is-npm):
